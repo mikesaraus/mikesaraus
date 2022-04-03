@@ -34,8 +34,8 @@
 <a href="//m.me/simplemnm">
     <img src="https://img.shields.io/badge/m.me-/simplemnm-blue?logo=messenger" alt="m.me/simplemnm"/>
 </a>
-<a href="tel:639350127921">
-    <img src="https://img.shields.io/badge/+63 935 0127 921-grey?logo=telegram" alt="+63 935 0127 921"/>
+<a href="//t.me/mikesaraus">
+    <img src="https://img.shields.io/badge/t.me-/mikesaraus-blue?logo=telegram" alt="t.me/mikesaraus"/>
 </a>
 
 </div>

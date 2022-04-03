@@ -12,14 +12,9 @@
 
 <hr/>
 
-<br/>
 <div align="center">
 
 ### </ Hello World! >
-
-<br/>
-
-Contact Me
 
 <a href="mailto:msaraus@pm.me">
     <img src="https://img.shields.io/badge/msaraus-@pm.me-darkgreen?logo=minutemailer&logoColor=lightgreen" alt="msaraus@pm.me"/> 

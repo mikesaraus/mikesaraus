@@ -2,12 +2,24 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+<a href="#">
     <img src="https://img.shields.io/badge/Javascript-brown" alt="NodeJS"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/Node-JS-brightgreen" alt="NodeJS"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/Vue-JS-orange" alt="VueJS"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/Quasar-Framework-blue" alt="VueJS"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/HTML-5-red" alt="HTML5"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/CSS-3-yellow" alt="HTML5"/>
+</a>
 </div>
 
 <hr/>
@@ -22,7 +34,7 @@
 <a href="//m.me/simplemnm">
     <img src="https://img.shields.io/badge/m.me-/simplemnm-blue?logo=messenger" alt="m.me/simplemnm"/>
 </a>
-<a href="tel:+639350127921">
+<a href="tel:639350127921">
     <img src="https://img.shields.io/badge/+63 935 0127 921-grey?logo=telegram" alt="+63 935 0127 921"/>
 </a>
 

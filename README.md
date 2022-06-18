@@ -6,6 +6,9 @@
     <img src="https://img.shields.io/badge/Javascript-grey" alt="Javascript"/>
 </a>
 <a href="#">
+    <img src="https://img.shields.io/badge/Python-skyblue" alt="Python"/>
+</a>
+<a href="#">
     <img src="https://img.shields.io/badge/PHP-brown" alt="PHP"/>
 </a>
 <a href="#">

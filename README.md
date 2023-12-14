@@ -1,41 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>What I do not know, I do not think I know</p>
 </div>
-<div id="badges" align="center">
-<a href="#">
-    <img src="https://img.shields.io/badge/Javascript-grey" alt="Javascript"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Python-skyblue" alt="Python"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/PHP-brown" alt="PHP"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Node-JS-brightgreen" alt="NodeJS"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Vue-JS-orange" alt="VueJS"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Quasar-Framework-blue" alt="Quasar"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/HTML-5-red" alt="HTML5"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/CSS-3-yellow" alt="CSS3"/>
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/SCSS-SASS-pink" alt="SCSS/SASS"/>
-</a>
-</div>
-
 <hr/>
 
 <div align="center">
 
-### </ Hello World! >
+### </ Hello World >
 
 <a href="mailto:msaraus@pm.me">
     <img src="https://img.shields.io/badge/msaraus-@pm.me-darkgreen?logo=minutemailer&logoColor=lightgreen" alt="msaraus@pm.me"/> 

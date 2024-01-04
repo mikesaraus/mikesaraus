@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>What I do not know, I do not think I know</p>
+  <p>What I do not know, I do not think I know.</p>
 </div>
 <hr/>
 
